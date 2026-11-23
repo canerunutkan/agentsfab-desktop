@@ -1,2 +1,5 @@
-# agentsfab-desktop
-AgentsFab Windows installer. Application source is not in this repository.
+# AgentsFab desktop
+
+Windows installer for [AgentsFab](https://www.agentsfab.com/download/).
+
+This repository holds the installer only. The application source is not here.
